@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dp6N3V11SBCS1m2HU8EQTUzNRqVwQqcr3rLjoe5B9y7G4Pi7FW4Kn0f9AiX1/VT8ORGs9txLaT+FiVJXfhcxcQ==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\lightApp\\lightApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

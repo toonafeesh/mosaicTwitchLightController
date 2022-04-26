@@ -1,0 +1,6 @@
+D:\lightApp\bin\Release\net5.0\publish\lightApp.exe
+D:\lightApp\bin\Release\net5.0\publish\lightApp.dll
+D:\lightApp\bin\Release\net5.0\publish\lightApp.deps.json
+D:\lightApp\bin\Release\net5.0\publish\lightApp.runtimeconfig.json
+D:\lightApp\bin\Release\net5.0\publish\lightApp.pdb
+D:\lightApp\bin\Release\net5.0\publish\RestSharp.dll

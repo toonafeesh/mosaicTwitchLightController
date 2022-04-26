@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "lightApp": {
+      "commandName": "Project"
+    }
+  }
+}
