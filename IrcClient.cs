@@ -18,8 +18,8 @@ namespace lightApp
         {
             _ip = "irc.twitch.tv";
             _port = 6667;
-            _username = "SurfAndTurfBot";
-            _password = "oauth:si65o8f3kv07yjyklynxy4rq1ggmgs";
+            _username = "Username";
+            _password = "oauth:xxxxx";
 
             tcpClient = new TcpClient(_ip, _port);
             outputStream = new StreamWriter(tcpClient.GetStream());
